@@ -1,0 +1,27 @@
+html{
+ background: url('https://images.unsplash.com/photo-1507752533523-5186b0bc4c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80') no-repeat center center fixed ;
+ background-size: cover;
+}
+
+body{
+background: none;
+}
+
+.container {
+ text-align: center;
+ margin-top: 100px;
+ width: 450px;
+}
+
+input {
+  margin: 20px 0;
+
+}
+
+#weather {
+margin-top: 15px;
+}
+
+#font{
+  color: azure;
+}
